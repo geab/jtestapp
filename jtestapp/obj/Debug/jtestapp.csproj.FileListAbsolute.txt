@@ -1,0 +1,4 @@
+c:\users\geleta\documents\visual studio 2010\Projects\jtestapp\jtestapp\bin\jtestapp.dll
+c:\users\geleta\documents\visual studio 2010\Projects\jtestapp\jtestapp\bin\jtestapp.pdb
+c:\users\geleta\documents\visual studio 2010\Projects\jtestapp\jtestapp\obj\Debug\jtestapp.dll
+c:\users\geleta\documents\visual studio 2010\Projects\jtestapp\jtestapp\obj\Debug\jtestapp.pdb
